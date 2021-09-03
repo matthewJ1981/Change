@@ -1,4 +1,4 @@
-Decimal to Binary converter written in Python
+#Decimal to Binary converter written in Python
 
 Run in a terminal as
 
